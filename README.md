@@ -26,3 +26,5 @@ Research paper : https://dl.acm.org/citation.cfm?id=2660970&dl=ACM&coll=DL
 1. Predict as many tags as possible with high precision and recall.
 2. Incorrect tags could impact customer experience on StackOverflow.
 3. No strict latency constraints.
+
+<img src='https://github.com/sanjayuconn/StackOverflow-tag-prediction/blob/master/pic1.jpg'/>
