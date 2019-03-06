@@ -14,7 +14,14 @@ Stack Overflow is something which every programmer use one way or another. Each 
 <p style='font-size:18px'><b> Problem Statemtent </b></p>
 Suggest the tags based on the content that was there in the question posted on Stackoverflow.
 
-<h2> 1.2 Real World / Business Objectives and Constraints </h2>
+<h2> 1.2 Source / useful links </h2>
+
+Data Source : https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction/data <br>
+Youtube : https://youtu.be/nNDqbUhtIRg <br>
+Research paper : https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tagging-1.pdf <br>
+Research paper : https://dl.acm.org/citation.cfm?id=2660970&dl=ACM&coll=DL
+
+<h2> 1.3 Real World / Business Objectives and Constraints </h2>
 
 1. Predict as many tags as possible with high precision and recall.
 2. Incorrect tags could impact customer experience on StackOverflow.
